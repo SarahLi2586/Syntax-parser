@@ -1,1 +1,1 @@
-# Syntax-parser
+# Syntax Analyzer
